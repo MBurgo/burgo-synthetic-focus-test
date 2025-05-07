@@ -1,0 +1,13 @@
+[theme]
+base="light"
+primaryColor="#ffb81c"
+backgroundColor="#ffffff"
+secondaryBackgroundColor="#fdf5da"
+textColor="#1c1d20"
+font="sans serif"
+
+[server]
+headless = true
+
+[ui]
+layout = "centered"
