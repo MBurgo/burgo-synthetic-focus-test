@@ -1,0 +1,8 @@
+streamlit>=1.34
+openai>=1.25
+scikit-learn
+pandas
+plotly
+python-docx
+PyPDF2
+XlsxWriter
